@@ -2,7 +2,7 @@ Code for the ["Measuring my apartment’s thermal conductivity"](http://www.simo
 
 # Usage
 To fit the model to the data and generate the power as a function of temperature difference graphs :
-`python thermal_conductivity.py home.csv`
+```python thermal_conductivity.py home.csv```
 
 To generate the hourly power graph:
-`python hourly_power.py`
+```python hourly_power.py```
